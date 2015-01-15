@@ -1,2 +1,3 @@
-# Harjoitus1
+﻿# Harjoitus1
 Ensimmäinen kouluharjoitus
+Muokataan vähän.
